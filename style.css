@@ -1,0 +1,29 @@
+div {
+    margin: auto;
+
+}
+#one{
+height: 500px;
+width: 500px;
+background-color: red;
+border: 3px solid black;
+
+}
+#two{
+    margin-top: 100px;
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    border: 3px solid black;
+}
+#three{
+    margin-top: 100px;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: 3px solid black;
+}
+  h1{  
+    text-align: center;
+  }
+
